@@ -1,6 +1,6 @@
 function Text() {
   return (
-    <div className="lg:mt-[200px] w-[410px] max-lg:w-full]">
+    <div className="lg:mt-[200px] lg:w-[410px] max-lg:w-full">
       <h1 className="font-Lora text-5xl lg:mb-[40px] max-lg:mb[25px]">
         Modern Interior
       </h1>
